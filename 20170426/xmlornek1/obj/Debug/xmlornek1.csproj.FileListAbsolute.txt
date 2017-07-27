@@ -1,0 +1,21 @@
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\bin\Debug\xmlornek1.exe.config
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\bin\Debug\xmlornek1.exe
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\bin\Debug\xmlornek1.pdb
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\obj\Debug\xmlornek1.csprojResolveAssemblyReference.cache
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\obj\Debug\xmlornek1.Form1.resources
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\obj\Debug\xmlornek1.Properties.Resources.resources
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\obj\Debug\xmlornek1.csproj.GenerateResource.Cache
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\obj\Debug\xmlornek1.exe
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426\xmlornek1\obj\Debug\xmlornek1.pdb
+E:\BilgeAdamDers\20170426\xmlornek1\bin\Debug\xmlornek1.exe.config
+E:\BilgeAdamDers\20170426\xmlornek1\obj\Debug\xmlornek1.exe
+E:\BilgeAdamDers\20170426\xmlornek1\obj\Debug\xmlornek1.pdb
+E:\BilgeAdamDers\20170426\xmlornek1\bin\Debug\xmlornek1.exe
+E:\BilgeAdamDers\20170426\xmlornek1\bin\Debug\xmlornek1.pdb
+E:\BilgeAdamDers\20170426\xmlornek1\obj\Debug\xmlornek1.csprojResolveAssemblyReference.cache
+E:\BilgeAdamDers\20170426\xmlornek1\obj\Debug\xmlornek1.Form1.resources
+E:\BilgeAdamDers\20170426\xmlornek1\obj\Debug\xmlornek1.Properties.Resources.resources
+E:\BilgeAdamDers\20170426\xmlornek1\obj\Debug\xmlornek1.csproj.GenerateResource.Cache
+C:\Users\Crnyvrtrk\Desktop\Github\20170426\xmlornek1\bin\Debug\xmlornek1.exe.config
+C:\Users\Crnyvrtrk\Desktop\Github\20170426\xmlornek1\obj\Debug\xmlornek1.exe
+C:\Users\Crnyvrtrk\Desktop\Github\20170426\xmlornek1\obj\Debug\xmlornek1.pdb
